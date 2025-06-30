@@ -1,0 +1,16 @@
+Q1: What are the setup instructions for Product X?
+A1: According to the Product X User Manual, the setup instructions can be found in section 2.
+Sources: sample_pdfs\Product_Manual.pdf
+----------------------------------------
+Q2: Does the manual include troubleshooting tips?
+A2: Yes, the Product X User Manual includes a Troubleshooting Guide.
+Sources: sample_pdfs\Product_Manual.pdf
+----------------------------------------
+Q3: What is planned for Day 1 of the training program?
+A3: Day 1 of the training program is dedicated to Introduction and Orientation.
+Sources: sample_pdfs\Training_Guide.pdf
+----------------------------------------
+Q4: What activities are scheduled for Day 3?
+A4: On Day 3 of your new hire training, you will be doing Team Shadowing.
+Sources: sample_pdfs\Training_Guide.pdf
+----------------------------------------
